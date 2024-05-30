@@ -1,0 +1,9 @@
+.content {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  row-gap: 50px;
+}/*# sourceMappingURL=content.css.map */

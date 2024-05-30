@@ -1,0 +1,28 @@
+.card
+    display: flex
+    flex-direction: column
+    align-self: center
+    justify-content: space-between
+    height: 400px
+    border: 1px solid lightgrey
+    max-width: 230px
+
+        &:hover
+            box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2)
+            transition: box-shadow 0.5s linear
+
+        >h3
+            margin-right: 15px
+            margin-left: 15px
+            text-align: center
+            font-weight: 400
+            border-bottom: 1px solid lightgrey
+        
+        >p
+            font-weight: 600
+            margin-left: 15px
+        
+
+.card-img
+    width: 100%
+    object-fit: cover
