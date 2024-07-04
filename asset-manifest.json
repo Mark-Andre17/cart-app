@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cart-app/static/css/main.799f69f9.css",
+    "main.js": "/cart-app/static/js/main.e2c4b90d.js",
+    "static/media/video-carta.png": "/cart-app/static/media/video-carta.dababa09e225fdf53f7c.png",
+    "index.html": "/cart-app/index.html",
+    "static/media/shopping-cart-solid.svg": "/cart-app/static/media/shopping-cart-solid.d146d6c3c3d8c4e2f0b994e4dfba9f7a.svg",
+    "main.799f69f9.css.map": "/cart-app/static/css/main.799f69f9.css.map",
+    "main.e2c4b90d.js.map": "/cart-app/static/js/main.e2c4b90d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799f69f9.css",
+    "static/js/main.e2c4b90d.js"
+  ]
+}
